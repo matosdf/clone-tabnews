@@ -15,6 +15,9 @@ out/
 # Variáveis de ambiente
 .env
 .env.local
+.next/server
+.next/static
+
 
 # Arquivos do sistema operacional (macOS, Windows)
 .DS_Store
