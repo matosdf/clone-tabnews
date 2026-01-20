@@ -1,33 +1,4 @@
-# Dependências e módulos
-node_modules/
-
-# Arquivos de log e temporários
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Arquivos de build e distribuição
-dist/
-build/
-out/
-
-# Variáveis de ambiente
-.env
-.env.local
-.next/server
-.next/static
+.next
+node_modules
 
 
-# Arquivos do sistema operacional (macOS, Windows)
-.DS_Store
-Thumbs.db
-
-# Arquivos de cache de IDEs (VS Code, etc.)
-.vscode/
-*.sublime-project
-*.sublime-workspace
-
-# Arquivos de build específicos (ex: React, Vue)
-build/
-*.log
